@@ -2,6 +2,10 @@
 
 A concise checklist of topics learned in cybersecurity, organized by category.
 
+## 📚 References
+- 🔹 [isaqueprofeta/cybersec-path](https://github.com/isaqueprofeta/cybersec-path)
+- 🔹 [CyberSecurity RoadMap - Jansen Moreira](https://jansen-moreira.notion.site/CyberSecurity-RoadMap-1123f61008cd806e9ae8d6c57bc5d2d9)
+
 ## OSI and TCP/IP Models
 - [x] OSI model – 7 layers
 - [x] TCP/IP architecture and OSI mapping
